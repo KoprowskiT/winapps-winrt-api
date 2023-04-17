@@ -20,8 +20,6 @@ The clipboard format. Zero represents the best format, which usually is Rich Tex
 True if the Clipboard content can be pasted into the text range in the specified format, and otherwise false.
 
 ## -remarks
-> [!NOTE]
-> On Windows Phone, CanPaste always returns false. Programmatic access to the clipboard is not supported on Windows Phone.
 
 ## -examples
 
